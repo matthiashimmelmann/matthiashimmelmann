@@ -1,4 +1,4 @@
-Hey, I am Matthias Himmelmann and I am interested in the various applications of algebraic geometry and data science. I am currently learning, how to use the programming
+Hey, I am Matthias Adrian-Himmelmann and I am interested in the various applications of algebraic geometry and data science. I am currently learning, how to use the programming
 language `Julia` for mathematical modelling and visualization. From a theoretical perspective, I am learning about the algebraic sides of material science, especially
 rigidity and catastrophe in tensegrity frameworks. If you are looking to collaborate, it is easiest to reach my via <matthias.himmelmann@tu-braunschweig.de>.
 
